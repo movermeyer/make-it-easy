@@ -1,10 +1,10 @@
 make-it-easy
 ============
 
-.. image:: https://pypip.in/v/make-it-easy/badge.png
+.. image:: https://img.shields.io/pypi/v/make-it-easy.svg
         :alt: Release Status
         :target: https://crate.io/packages/make-it-easy
-.. image:: https://pypip.in/d/make-it-easy/badge.png
+.. image:: https://img.shields.io/pypi/dm/make-it-easy.svg
         :alt: Downloads
         :target: https://crate.io/packages/make-it-easy
 .. image:: https://travis-ci.org/dorireuv/make-it-easy.png
